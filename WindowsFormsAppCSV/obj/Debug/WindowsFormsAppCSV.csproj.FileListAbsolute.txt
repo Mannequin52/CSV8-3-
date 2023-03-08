@@ -1,0 +1,10 @@
+C:\Users\korisnik\source\repos\WindowsFormsAppCSV\bin\Debug\WindowsFormsAppCSV.exe.config
+C:\Users\korisnik\source\repos\WindowsFormsAppCSV\bin\Debug\WindowsFormsAppCSV.exe
+C:\Users\korisnik\source\repos\WindowsFormsAppCSV\bin\Debug\WindowsFormsAppCSV.pdb
+C:\Users\korisnik\source\repos\WindowsFormsAppCSV\obj\Debug\WindowsFormsAppCSV.csproj.AssemblyReference.cache
+C:\Users\korisnik\source\repos\WindowsFormsAppCSV\obj\Debug\WindowsFormsAppCSV.Form1.resources
+C:\Users\korisnik\source\repos\WindowsFormsAppCSV\obj\Debug\WindowsFormsAppCSV.Properties.Resources.resources
+C:\Users\korisnik\source\repos\WindowsFormsAppCSV\obj\Debug\WindowsFormsAppCSV.csproj.GenerateResource.cache
+C:\Users\korisnik\source\repos\WindowsFormsAppCSV\obj\Debug\WindowsFormsAppCSV.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\source\repos\WindowsFormsAppCSV\obj\Debug\WindowsFormsAppCSV.exe
+C:\Users\korisnik\source\repos\WindowsFormsAppCSV\obj\Debug\WindowsFormsAppCSV.pdb
